@@ -1,3 +1,9 @@
+"""
+Ödev 1 – Sinüzoidal İşaretler
+f0 = 53 Hz
+Grup: 13, 31, 9
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
